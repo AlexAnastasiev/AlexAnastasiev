@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 
-**AlexAnastasiev/AlexAnastasiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m Junior specialist computer technican 
 
-Here are some ideas to get you started:
+    and
 
-- 🔭 I’m currently working on education
-![](https://kharkovgo.com/wp-content/uploads/2016/02/6jVQYUj3hYg-551x368.jpg)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+student at National Aerospace University - 'Kharkiv Aviation Institute'
+![](https://ru.freepik.com/free-vector/human-evolution-of-monkey-to-modern-man-programmer-computer-user-isolated-on-white_4997399.htm)
+
+Follow me:
+
+[![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/a.nanass.s/)
+[![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/a_nanass_s)
+
+[![Cloud](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandr-anastasiev-835725207/)
