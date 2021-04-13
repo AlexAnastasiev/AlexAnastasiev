@@ -14,7 +14,7 @@
 
 ### Follow me or send email 👇:
 
-|ananasss1999@gmail.com|
+<a href="ananasss1999@gmail.com">ananasss1999@gmail.com</a>
 
 [![Cloud](https://img.shields.io/badge/instagram-ffffff?style=social&logo=instagram)](https://www.instagram.com/a.nanass.s/)
   [![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=social&logo=telegram)](https://t.me/a_nanass_s)
