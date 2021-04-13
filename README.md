@@ -2,13 +2,15 @@
 
 
 I`m Junior specialist computer technican 
-
     and
-
 student at National Aerospace University - 'Kharkiv Aviation Institute'
+
+
 ![](https://image.freepik.com/free-vector/human-evolution-of-monkey-to-modern-man-programmer-computer-user-isolated-on-white_33099-1593.jpg)
 
+
 Follow me:
+
 
 [![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/a.nanass.s/)
 [![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/a_nanass_s)
