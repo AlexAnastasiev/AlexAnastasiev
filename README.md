@@ -5,7 +5,7 @@
         and
     *student* at National Aerospace University - 'Kharkiv Aviation Institute'
 
-
+![](*student* at National Aerospace University - 'Kharkiv Aviation Institute')
 ![](https://image.freepik.com/free-vector/human-evolution-of-monkey-to-modern-man-programmer-computer-user-isolated-on-white_33099-1593.jpg)
 
 
