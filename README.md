@@ -6,7 +6,7 @@ I`m Junior specialist computer technican
     and
 
 student at National Aerospace University - 'Kharkiv Aviation Institute'
-![](https://ru.freepik.com/free-vector/human-evolution-of-monkey-to-modern-man-programmer-computer-user-isolated-on-white_4997399.htm)
+![](https://image.freepik.com/free-vector/human-evolution-of-monkey-to-modern-man-programmer-computer-user-isolated-on-white_33099-1593.jpg)
 
 Follow me:
 
