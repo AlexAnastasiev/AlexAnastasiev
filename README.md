@@ -1,9 +1,11 @@
  
 ### Hi there ! 👋
 
->   *I`m Junior specialist computer technican*
->   *and*
->   *student 👨‍🎓 at National Aerospace University - 'Kharkiv Aviation Institute'*
+>   ***I`m Junior specialist computer technican***
+>   ***and***
+>  ***student 👨‍🎓 at National Aerospace University - 'Kharkiv Aviation Institute'***
+
+
 
 
 
@@ -12,14 +14,16 @@
 
 
 
+
+
 *Follow me or send email 👇:*
 
 **<ananasss1999@gmail.com>**
 
-[![Cloud](https://img.shields.io/badge/instagram-ffffff?style=social&logo=instagram)](https://www.instagram.com/a.nanass.s/)        
-        [![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=social&logo=telegram)](https://t.me/a_nanass_s)
+[![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/a.nanass.s/)
+[![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/a_nanass_s)
 
-[![Cloud](https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/alexandr-anastasiev-835725207/)
+[![Cloud](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandr-anastasiev-835725207/)
 
 
 ### **Come in if anything!**
